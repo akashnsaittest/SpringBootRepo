@@ -7,7 +7,4 @@ public class Product {
     
     private Integer id;
 
-    private Double pricel;
-
-    Double weight;
 }
