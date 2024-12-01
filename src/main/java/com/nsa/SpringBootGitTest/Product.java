@@ -9,4 +9,5 @@ public class Product {
 
     private Double pricel;
 
+    Double weight;
 }
