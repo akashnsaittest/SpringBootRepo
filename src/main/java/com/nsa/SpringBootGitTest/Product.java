@@ -12,4 +12,8 @@ public class Product {
     private Data date;
 
     private Character gender;
+    private String city;
+
+    private Integer size;
+
 }
