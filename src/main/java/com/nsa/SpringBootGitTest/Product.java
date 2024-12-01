@@ -7,4 +7,8 @@ public class Product {
     
     private Integer id;
 
+    private String city;
+
+    private Integer size;
+
 }
